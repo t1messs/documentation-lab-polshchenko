@@ -7,6 +7,12 @@
 
 ### Приклад вигляду системи(Сайт та Додаток): 
 
+<img width="1598" height="1061" alt="image" src="https://github.com/user-attachments/assets/fe355427-beb5-454e-bef2-8442573e724c" />
+
+<img width="547" height="874" alt="image" src="https://github.com/user-attachments/assets/ff3ddf6f-23da-49de-8bc3-68b118148c65" />
+
+
+
 ### FAQ
   1.❓ Як записатися на прийом до лікаря?
 
